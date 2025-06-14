@@ -5,8 +5,8 @@ site_url: https://hebei-agricultural-university.github.io/HeBAUManual/
 theme:
   name: material
   language: zh
-  favicon: assets/images/favicon.png
-  logo: assets/images/favicon.png
+  favicon: assets/images/hebauIcon.png
+  logo: assets/images/hebauIcon.png
   
   features:
     - announce.dismiss
