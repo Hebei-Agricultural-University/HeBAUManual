@@ -1,32 +1,142 @@
-# 河北农业大学学生生活指南
+# 🌾 河北农业大学学生生活指南
 
-欢迎来到河北农业大学学生生活指南！
-
-本指南旨在为河北农业大学的同学们提供一个全面、实用的生活信息平台。
-
-## 如何贡献
-
-我们欢迎所有同学参与到本指南的建设中来！你可以通过以下方式贡献：
-
-- **补充内容**：如果你发现某些信息缺失或者不准确，请随时提出修改建议或直接贡献内容。
-- **分享经验**：分享你在校园生活中的实用技巧、心得体会等。
-- **校对修正**：帮助我们检查文档中的错别字、格式问题等。
-
-## 目录
-
-请参考左侧导航栏浏览各个模块的内容。
+<div align="center">
+  <h2>🎓 欢迎来到河北农业大学大家庭！</h2>
+  <p><em>您的大学生活全方位指南</em></p>
+</div>
 
 ---
-*For full documentation visit [mkdocs.org](https://www.mkdocs.org).*
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 📖 关于本指南
 
-Project layout:
+本指南是由**河北农业大学学生**共同维护的生活信息平台，致力于为新老同学提供：
 
-    mkdocs.yml    # The configuration file.
-    docs/         # The folder with documentation files.
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 🎯 **全面实用**的校园生活信息
+- 🔄 **及时更新**的政策变化
+- 💡 **学长学姐**的经验分享
+- 🤝 **互帮互助**的交流平台
+
+## 🚀 快速导航
+
+### 🆕 新生必看
+=== "🎒 入学准备"
+    - [📋 入学须知](freshman/admission.md) - 入学前必须了解的重要信息
+    - [📝 报到流程](freshman/registration.md) - 详细的报到步骤指南
+    - [🏠 住宿安排](freshman/accommodation.md) - 宿舍分配和生活须知
+
+=== "🏫 学校概况"
+    - [🌟 学校简介](overview/introduction.md) - 了解我们的农大
+    - [📚 校史沿革](overview/history.md) - 百年农大的历史足迹
+    - [🗺️ 校区分布](overview/campus.md) - 各校区位置和交通
+
+### 🏠 日常生活
+<div class="grid cards" markdown>
+
+-   🍽️ **餐饮美食**
+
+    ---
+    
+    [食堂餐饮指南](campus-life/dining.md) - 各食堂特色菜品推荐
+
+-   🛏️ **宿舍生活**
+
+    ---
+    
+    [宿舍生活攻略](campus-life/dormitory.md) - 宿舍管理制度和生活技巧
+
+-   🚌 **交通出行**
+
+    ---
+    
+    [校园交通指南](campus-life/transportation.md) - 校内外交通全攻略
+
+-   📚 **学习资源**
+
+    ---
+    
+    [图书馆使用指南](resources/library.md) - 借阅、自习、数据库使用
+
+</div>
+
+### 🎯 学习发展
+<div class="grid cards" markdown>
+
+-   🔬 **实验学习**
+
+    ---
+    
+    [实验室介绍](resources/labs.md) - 各学院实验室开放信息
+
+-   📖 **自习空间**
+
+    ---
+    
+    [自习室分布](resources/study-rooms.md) - 最佳学习场所推荐
+
+-   🎭 **社团活动**
+
+    ---
+    
+    [社团大全](clubs/list.md) - 丰富多彩的社团选择
+
+-   💰 **奖助学金**
+
+    ---
+    
+    [奖学金申请](scholarship/awards.md) - 各类奖学金申请指南
+
+</div>
+
+## 💫 特色功能
+
+!!! tip "实用功能"
+    - 🔍 **全站搜索** - 快速找到你需要的信息
+    - 🌙 **深色模式** - 护眼模式，点击右上角切换
+    - 📱 **移动适配** - 手机访问同样方便
+    - ⚡ **即时加载** - 无需刷新页面即可浏览
+
+## 🤝 参与贡献
+
+!!! success "我们需要你的帮助！"
+    
+    这个指南的完善离不开每一位同学的贡献：
+    
+    === "📝 内容贡献"
+        - 补充缺失或过时的信息
+        - 分享实用的生活技巧
+        - 提供新生入学经验
+        
+    === "🔧 技术支持"
+        - 修复页面显示问题
+        - 优化用户体验
+        - 建议新功能
+
+    === "📢 宣传推广"
+        - 向同学推荐本指南
+        - 在社交媒体分享
+        - 收集用户反馈
+
+## 📞 联系我们
+
+<div class="grid cards" markdown>
+
+-   📧 **问题反馈**
+
+    ---
+    
+    发现问题或有建议？请通过 GitHub Issues 联系我们
+
+-   💬 **交流讨论**
+
+    ---
+    
+    加入我们的讨论群，与更多同学交流
+
+</div>
+
+---
+
+<div align="center">
+  <p>🌟 <strong>让我们一起打造更好的农大生活指南！</strong> 🌟</p>
+  <p><small>本项目由河北农业大学学生维护 | 持续更新中</small></p>
+</div>
