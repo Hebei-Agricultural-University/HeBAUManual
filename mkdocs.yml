@@ -1,1 +1,48 @@
-site_name: HeBAUManual
+site_name: 河北农业大学生活指南
+site_description: 河北农业大学学生生活指南与经验分享平台
+site_url: https://hebei-agricultural-university.github.io/HeBAUManual/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+
+nav:
+  - 首页: index.md
+  - 学校概况: 
+    - 学校简介: overview/introduction.md
+    - 校史沿革: overview/history.md
+    - 校区分布: overview/campus.md
+  - 新生指南:
+    - 入学须知: freshman/admission.md
+    - 报到流程: freshman/registration.md
+    - 住宿安排: freshman/accommodation.md
+  - 校园生活:
+    - 食堂餐饮: campus-life/dining.md
+    - 宿舍生活: campus-life/dormitory.md
+    - 交通出行: campus-life/transportation.md
+  - 学习资源:
+    - 图书馆: resources/library.md
+    - 实验室: resources/labs.md
+    - 自习室: resources/study-rooms.md
+  - 社团活动:
+    - 社团列表: clubs/list.md
+    - 活动日历: clubs/calendar.md
+  - 奖助学金:
+    - 奖学金: scholarship/awards.md
+    - 助学金: scholarship/grants.md
+    - 申请流程: scholarship/application.md
