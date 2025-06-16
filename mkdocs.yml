@@ -121,6 +121,8 @@ copyright: >
 
 nav:
   - 首页: index.md
+  - 就业: 
+    - 电类就业: work/Job.md
   - 学校概况: 
     - 学校简介: overview/introduction.md
     - 校史沿革: overview/history.md
